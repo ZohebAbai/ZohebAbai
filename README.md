@@ -4,10 +4,7 @@
 
 <h3 align="center"> I'm a professional Data Scientist with an academic background in Computational Physics</h3>
 <h4 align="center"> I support learning from, working and collaborating on open source projects</h4>
-
-<p align="center">
-  Check out my repos ⬇️ and feel free to connect 
-</p>
+<h5 align="center">Check out my repos and feel free to connect ⬇️ </h5>
 
 <p align="center">
 <a href="mailto:zohebabai@gmail.com"><img src="https://img.icons8.com/ios-filled/36/000000/gmail.png"/></a>
