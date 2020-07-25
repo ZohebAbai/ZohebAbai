@@ -19,6 +19,7 @@
 ### Latest Blog Posts
 
 <!-- DEVTO:START -->
+- [ZFNet (ILSVRC Runner-up 2013)](https://dev.to/zohebabai/zfnet-ilsvrc-runner-up-2013-4hnj)
 - [AlexNet (ILSVRC Winner 2012)](https://dev.to/zohebabai/alexnet-ilsvrc-winner-2012-3cfo)
 - [Share your local Jupyter Notebook on Internet for Free](https://dev.to/zohebabai/share-your-local-jupyter-notebook-on-internet-18do)
 <!-- DEVTO:END -->
