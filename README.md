@@ -4,6 +4,13 @@
 
 <h3 align="center"> I'm professionally a Data Scientist with an academic background in Computational Physics</h3>
 <h4 align="center"> I support learning from, working on and contributing to open source projects</h4>
+
+<h3 align="center"> Latest Blog Posts </h3>
+
+<!-- DEVTO:START -->
+
+<!-- DEVTO:END -->
+
 <h5 align="center">Check out my repos and feel free to connect ⬇️ </h5>
 
 <p align="center">
@@ -13,18 +20,3 @@
 </a>
 <a href= "https://www.linkedin.com/in/zohebabai/"><img src="https://img.icons8.com/ios-glyphs/36/000000/linkedin.png"/></a>
 </p>
-
-<!--
-**ZohebAbai/ZohebAbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
