@@ -8,7 +8,6 @@
 <h3 align="center"> Latest Blog Posts </h3>
 
 <!-- DEVTO:START -->
-
 <!-- DEVTO:END -->
 
 <h5 align="center">Check out my repos and feel free to connect ⬇️ </h5>
