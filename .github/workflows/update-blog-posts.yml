@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every sunday
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
     
 
 jobs:
@@ -18,3 +18,4 @@ jobs:
         with:
           comment_tag_name: DEVTO
           feed_list: "https://dev.to/feed/zohebabai"
+          max_post_count: 3 
