@@ -8,7 +8,7 @@
 <h5 align="center">Check out my work and feel free to connect ⬇️ </h5>
 
 <p align="center">
-<a href="mailto:zohebabai@gmail.com"><img src="https://img.icons8.com/ios-filled/36/000000/gmail.png"/></a>
+<a href="mailto:aglauocnv@relay.firefox.com"><img src="https://img.icons8.com/ios-filled/36/000000/gmail.png"/></a>
 <a href="https://dev.to/zohebabai">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Zoheb Abai's DEV Profile" height="36" width="36">
 </a>
