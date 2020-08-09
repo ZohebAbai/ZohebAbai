@@ -20,7 +20,7 @@
 ### Latest Blog Posts
 
 <!-- DEVTO:START -->
+- [Top 10 Deep Learning Breakthroughs - Family of SNGD Optimizers](https://dev.to/zohebabai/top-10-deep-learning-breakthroughs-family-of-sngd-optimizers-4ek6)
+- [Top 10 Deep Learning Breakthroughs - AlexNet](https://dev.to/zohebabai/top-10-deep-learning-breakthroughs-alexnet-1670)
 - [VGGNet (ILSVRC Winner 2014)](https://dev.to/zohebabai/vggnet-ilsvrc-winner-2014-3mpk)
-- [ZFNet (ILSVRC Runner-up 2013)](https://dev.to/zohebabai/zfnet-ilsvrc-runner-up-2013-4hnj)
-- [AlexNet (ILSVRC Winner 2012)](https://dev.to/zohebabai/alexnet-ilsvrc-winner-2012-3cfo)
 <!-- DEVTO:END -->
