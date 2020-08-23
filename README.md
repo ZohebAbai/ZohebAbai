@@ -20,7 +20,7 @@
 ### Latest Blog Posts
 
 <!-- DEVTO:START -->
+- [A Decade of Deep CNN Archs. - GoogLeNet (ILSVRC Winner 2014)](https://dev.to/zohebabai/googlenet-ilsvrc-winner-2014-211e)
 - [Top 10 Deep Learning Breakthroughs - Family of SNGD Optimizers](https://dev.to/zohebabai/top-10-deep-learning-breakthroughs-family-of-sngd-optimizers-4ek6)
 - [Top 10 Deep Learning Breakthroughs - AlexNet](https://dev.to/zohebabai/top-10-deep-learning-breakthroughs-alexnet-1670)
-- [VGGNet (ILSVRC Winner 2014)](https://dev.to/zohebabai/vggnet-ilsvrc-winner-2014-3mpk)
 <!-- DEVTO:END -->
