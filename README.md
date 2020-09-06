@@ -20,7 +20,7 @@
 ### Latest Blog Posts
 
 <!-- DEVTO:START -->
+- [Boost your Colab Notebooks with GCP and AWS Instance in a few minutes](https://dev.to/zohebabai/boost-your-colab-notebooks-with-gcp-and-aws-instance-within-a-few-minutes-47ma)
+- [Step-by-Step Instructions for Testing your GitHub Python Project using GitHub Actions](https://dev.to/zohebabai/step-by-step-instructions-for-testing-your-github-python-project-using-github-actions-227b)
 - [A Decade of Deep CNN Archs. - GoogLeNet (ILSVRC Winner 2014)](https://dev.to/zohebabai/googlenet-ilsvrc-winner-2014-211e)
-- [Top 10 Deep Learning Breakthroughs - Family of SNGD Optimizers](https://dev.to/zohebabai/top-10-deep-learning-breakthroughs-family-of-sngd-optimizers-4ek6)
-- [Top 10 Deep Learning Breakthroughs - AlexNet](https://dev.to/zohebabai/top-10-deep-learning-breakthroughs-alexnet-1670)
 <!-- DEVTO:END -->
