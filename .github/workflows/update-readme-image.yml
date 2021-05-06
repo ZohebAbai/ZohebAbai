@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
-          HEIGHT: 850px
-          WIDTH: 550px
+          HEIGHT: 550px
+          WIDTH: 850px
           ALIGN: center
           IMG_ALT: Daily Readme Image
