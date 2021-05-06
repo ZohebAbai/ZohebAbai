@@ -1,7 +1,7 @@
-<p align="center">
+<a href="https://unsplash.com/">
   <!--START_SECTION:update_image-->
   <!--END_SECTION:update_image-->
-</p>
+</a>
 
 ## Hi, 👋🏼
 

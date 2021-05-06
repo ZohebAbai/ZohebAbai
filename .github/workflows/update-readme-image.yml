@@ -1,0 +1,19 @@
+name: Update Readme Image
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day
+    - cron: '0 0 * * *'
+    
+
+jobs:
+  update-readme:
+    name: Update Image README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: siddharth2016/update-readme-image@main
+        with:
+          HEIGHT: 850px
+          WIDTH: 550px
+          ALIGN: center
+          IMG_ALT: Daily Readme Image
