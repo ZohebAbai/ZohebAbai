@@ -15,8 +15,8 @@
 <a href= "https://medium.com/@zohebabai"><img src="https://img.icons8.com/ios-filled/36/000000/medium.png"/></a>
 </p>
 
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/web.png"/></a> Featured Small Projects 
-* [Ratings Reliability Measure App](https://ratings-reliability-app.herokuapp.com/) - **Statistics | Python | Streamlit | Heroku | Free-to-Use | Summer 2021**
+## <a><img src="https://img.icons8.com/ios-filled/24/000000/web.png"/></a> Featured Tiny Projects 
+* [Ratings Reliability Measure App](https://ratings-reliability-app.herokuapp.com/) - **Statistics | Python | Streamlit | Heroku | Summer 2021** <a href="https://www.producthunt.com/posts/ratings-reliability-measure?utm_source=badge-review&utm_medium=badge&utm_souce=badge-ratings-reliability-measure#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=294989&theme=light" alt="Ratings Reliability Measure - Lets you know if you should trust the ratings displayed. | Product Hunt" style="width: 160px; height: 30px;" width="160" height="30" /></a>
 * [Whats going on in the Picture? App](https://whats-going-on-in-the-picture.herokuapp.com/) - **Python | Deep Learning | Django | Heroku | Open Source | Summer 2020**
 * [Colab Auto Reconnect Browser Extension](https://zohebabai.github.io/Colab_Auto_Reconnect/) - **HTML-CSS-JS | Colab | Chrome/Firefox Extensions | Open Source | Summer 2019**
 
