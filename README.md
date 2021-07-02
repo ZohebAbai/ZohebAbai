@@ -13,6 +13,7 @@
 </a>
 <a href= "https://www.linkedin.com/in/zohebabai/"><img src="https://img.icons8.com/ios-glyphs/36/000000/linkedin.png"/></a>
 <a href= "https://medium.com/@zohebabai"><img src="https://img.icons8.com/ios-filled/36/000000/medium.png"/></a>
+<a href= "https://www.youtube.com/channel/UC_yI6oXBH8zIRqxwRT2uu6g"><img src="https://img.icons8.com/ios-filled/36/000000/youtube.png"/></a>
 </p>
 
 ## <a><img src="https://img.icons8.com/ios-filled/24/000000/web.png"/></a> Featured Micro Projects 
