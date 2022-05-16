@@ -34,10 +34,8 @@
 * [Machine Learning Fundamentals - Archived 2018](https://github.com/ZohebAbai/DSE220x)
 * [Statistics and Probability in Data Science using Python - Archived 2018](https://github.com/ZohebAbai/DSE210x)
 
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/event.png"/> Upcoming
-* NLP Transformers Notebooks - To be Updated Soon
-* Deep Learning Projects - To be Updated Soon
-* Python with DS&A - Coming Soon
+## <a><img src="https://img.icons8.com/ios-filled/24/000000/event.png"/> Working On
+* Advanced Deep Learning Notebooks for Beginners
 
 ---
 <a href= "https://www.buymeacoffee.com/zohebabai"><img src="https://media.giphy.com/media/XUlROFcC6umppQLxIE/giphy.gif" alt="Buy me a book" height="45" width="144"/></a>
