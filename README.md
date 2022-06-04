@@ -38,5 +38,4 @@
 * Advanced Deep Learning Notebooks for Beginners
 
 ---
-<a href= "https://www.buymeacoffee.com/zohebabai"><img src="https://media.giphy.com/media/XUlROFcC6umppQLxIE/giphy.gif" alt="Buy me a book" height="45" width="144"/></a>
 
