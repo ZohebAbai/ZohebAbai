@@ -1,10 +1,27 @@
-<a href="https://unsplash.com/">
-  <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/ZohebAbai/ZohebAbai/master/.github/images/veeterzy-sMQiL_2v4vs-unsplash.jpg height=550px width=850px align=center alt=Daily Readme Image />
-<!--END_SECTION:update_image-->
-</a>
+### Hey 👋🏼 , I'm Zoheb
+I'm a Deep Learning Engineer having an academic background in Computational Physics.  I :heart: Open Source and passionate about solving complicated problems and creating software solutions :robot:.
 
-## Hi 👋🏼 , I'm a Data Scientist with an academic background in Computational Physics
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohebabai&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Zoheb Abai's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=zohebabai&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&theme=default&hide_rank=true#gh-light-mode-only" alt="Zoheb Abai's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohebabai&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Zoheb Abai's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=zohebabai&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&theme=dark&bg_color=000000&hide_rank=true#gh-dark-mode-only" alt="Zoheb Abai's Github stats" />
+</a>
+</div>
+
+<br/>
 
 <p align="center">
 <a href="mailto:aglauocnv@relay.firefox.com"><img src="https://img.icons8.com/ios-filled/36/000000/gmail.png"/></a>
@@ -42,8 +59,8 @@
 ## <a><img src="https://img.icons8.com/ios-filled/24/000000/home-office--v2.png"/> My Tech Stack
 <a><img src="https://img.icons8.com/color/32/000000/python.png"/> <a><img src="https://img.icons8.com/color/32/000000/console.png"/> <a><img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/> <a><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="32" height="32"/> <a><img src="https://img.icons8.com/color/32/000000/tensorflow.png"/> <a><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="32" height="32"/> <a><img src="https://img.icons8.com/color/32/000000/visual-studio-code-2019.png"/> <a><img src="https://img.icons8.com/color/32/000000/git.png"/> <a><img src="https://img.icons8.com/color/32/000000/django.png"/> <a><img src="https://img.icons8.com/color/32/000000/javascript.png"/> <a><img src="https://img.icons8.com/color/32/000000/html-5.png"/> <a><img src="https://img.icons8.com/color/32/000000/css3.png"/> <a><img src="https://img.icons8.com/color/32/000000/sql.png"/> <a><img src="https://img.icons8.com/color/32/000000/docker.png"/> <a><img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/> <a><img src="https://img.icons8.com/color/32/000000/google-cloud-platform.png"/> <a><img src="https://raw.githubusercontent.com/isl-org/Open3D/master/docs/_static/open3d_logo_horizontal.png" width="96" height="32"/> <a><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/ROS_cat.png" width="48" height="32"/>
 
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/event.png"/> Working On
-* Advanced Deep Learning Notebooks for Beginners
+## <a><img src="https://img.icons8.com/ios-filled/24/keyboard.png"/> Working On
+* Interesting Projects
 
 ---
 
