@@ -62,5 +62,3 @@ I'm a Deep Learning Engineer having an academic background in Computational Phys
 ## <a><img src="https://img.icons8.com/ios-filled/24/keyboard.png"/> Working On
 * Interesting Projects
 
----
-
