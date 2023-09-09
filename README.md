@@ -45,7 +45,7 @@ I'm a Deep Learning Engineer having an academic background in Computational Phys
 * [Gazebo ROS L515](https://github.com/ZohebAbai/gazebo_ros_l515) - **Simulated Realsense L515 sensor with ROS in Gazebo** [Video](https://youtu.be/KoQNH7YahN8)
 
 ## <a><img src="https://img.icons8.com/ios-filled/24/000000/blog.png"/> Featured Articles
-* [Upgrade to Pytorch 2.0](https://medium.com/@zohebabai/upgrade-to-pytorch-2-0-c08bead86e38)
+* [Wild Wild RAG… (Part 1)](https://pub.towardsai.net/wild-wild-rag-part-1-42848c907499)
 * [What’s in the Controversial Article that Forced Timnit Gebru Out of Google?](https://pub.towardsai.net/on-the-dangers-of-stochastic-parrots-summarized-7eb370bc3d7b)
 * [Boost your Colab Notebooks with GCP and AWS Instance in a few minutes](https://zohebabai.medium.com/boost-your-colab-notebooks-with-gcp-and-aws-instance-within-a-few-minutes-a43ed37cd06d)
 * [Top 10 Deep Learning Breakthroughs — Deep Reinforcement Learning](https://medium.com/the-innovation/top-10-deep-learning-breakthroughs-deep-reinforcement-learning-d2307ed8c27)
