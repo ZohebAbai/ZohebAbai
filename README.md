@@ -1,5 +1,23 @@
-### Hey 👋🏼 , I'm Zoheb
-I'm a Deep Learning Engineer having an academic background in Computational Physics.  I :heart: Open Source and passionate about solving complicated problems and creating software solutions :robot:.
+# Zoheb Abai
+
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+
+### Senior Software Engineer | Deep Learning Specialist | ML Systems Architect | Robotics Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohebabai/)
+[![X](https://img.shields.io/badge/X-Connect-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zohebabai)
+[![Medium](https://img.shields.io/badge/Medium-Follow-40E0D0?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zohebabai)
+[![Email](https://img.shields.io/badge/Email-Contact-800080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zagithub.shallow578@passinbox.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_yI6oXBH8zIRqxwRT2uu6g)
+
+</div>
+
+## 👨‍💻 About Me
+
+Passionate and results-driven Senior Software Engineer with a robust background in Deep Learning and Computational Physics. I design and implement production-grade ML systems that solve complex business problems. My expertise spans building scalable software architectures, optimizing ML pipelines, and delivering innovative solutions across diverse domains.
+
+> **"Good judgment comes from experience, and experience comes from bad judgment."** - Fred Brooks, The Mythical Man-Month
 
 <!-- Light Mode -->
 <div align="center"> 
@@ -21,45 +39,98 @@ I'm a Deep Learning Engineer having an academic background in Computational Phys
 </a>
 </div>
 
-<br/>
 
-<p align="center">
-<a href="mailto:aglauocnv@relay.firefox.com"><img src="https://img.icons8.com/ios-filled/36/000000/gmail.png"/></a>
-<a href="https://dev.to/zohebabai">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Zoheb Abai's DEV Profile" height="36" width="36">
-</a>
-<a href= "https://www.linkedin.com/in/zohebabai/"><img src="https://img.icons8.com/ios-glyphs/36/000000/linkedin.png"/></a>
-<a href= "https://medium.com/@zohebabai"><img src="https://img.icons8.com/ios-filled/36/000000/medium.png"/></a>
-<a href= "https://www.youtube.com/channel/UC_yI6oXBH8zIRqxwRT2uu6g"><img src="https://img.icons8.com/ios-filled/36/000000/youtube.png"/></a>
-</p>
+## 🔧 Open Source Contributions & Packages
 
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/web.png"/></a> Featured Micro Projects
-* [YOLOS Demo (Balloons) App](https://huggingface.co/spaces/zoheb/yolos_demo) - **Deep Learning | Transformer | Streamlit | HF Spaces | Open Source | Autumn 2022**
-* [Segmformer Demo (Sidewalk) App](https://huggingface.co/spaces/zoheb/segformer_demo) - **Deep Learning | Transformer | Gradio | HF Spaces | Open Source | Autumn 2022**
-* [Ratings Reliability Measure App](https://ratings-reliability-app.herokuapp.com/) - **Statistics | Python | Streamlit | Heroku | Summer 2021** 
-* [Whats going on in the Picture? App](https://whats-going-on-in-the-picture.herokuapp.com/) - **Python | Deep Learning | Django | Heroku | Open Source | Summer 2020**
-* [Colab Auto Reconnect Browser Extension](https://zohebabai.github.io/Colab_Auto_Reconnect/) - **HTML-CSS-JS | Colab | Chrome/Firefox Extensions | Open Source | Summer 2019**
+<div>
 
-## <a><img src="https://img.icons8.com/ios-filled/24/package.png"/> Featured Packages
-* [Focal Frequency Loss](https://pypi.org/project/tf-focal-frequency-loss/) - **Displays increased performance in Generational Models**
-* [Gazebo ROS L515](https://github.com/ZohebAbai/gazebo_ros_l515) - **Simulated Realsense L515 sensor with ROS in Gazebo** [Video](https://youtu.be/KoQNH7YahN8)
+| Package | Description | Technologies |
+|---------|-------------|---------------|
+| [Focal Frequency Loss](https://pypi.org/project/tf-focal-frequency-loss/) | Enhanced performance metric for Generational Models | TensorFlow, Python, PyPI |
+| [Gazebo ROS L515](https://github.com/ZohebAbai/gazebo_ros_l515) | Simulated Realsense L515 sensor with ROS in Gazebo ([Demo Video](https://youtu.be/KoQNH7YahN8)) | ROS, Gazebo, C++, Simulation |
+| [ServifAI](https://github.com/ZohebAbai/servifai) | Currently in development | Python, ML, Cloud |
 
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/blog.png"/> Featured Articles
-* [Wild Wild RAG… (Part 1)](https://pub.towardsai.net/wild-wild-rag-part-1-42848c907499)
-* [What’s in the Controversial Article that Forced Timnit Gebru Out of Google?](https://pub.towardsai.net/on-the-dangers-of-stochastic-parrots-summarized-7eb370bc3d7b)
-* [Boost your Colab Notebooks with GCP and AWS Instance in a few minutes](https://zohebabai.medium.com/boost-your-colab-notebooks-with-gcp-and-aws-instance-within-a-few-minutes-a43ed37cd06d)
-* [Top 10 Deep Learning Breakthroughs — Deep Reinforcement Learning](https://medium.com/the-innovation/top-10-deep-learning-breakthroughs-deep-reinforcement-learning-d2307ed8c27)
+</div>
 
+## 📝 Technical Writing
 
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/repository.png"/> Featured Coursework Notebooks
-* [Mobile Sensing and Robotics - Updated 2021](https://github.com/ZohebAbai/mobile_sensing_robotics)
-* [Machine Learning Fundamentals - Archived 2018](https://github.com/ZohebAbai/DSE220x)
-* [Statistics and Probability in Data Science using Python - Archived 2018](https://github.com/ZohebAbai/DSE210x)
+Sharing knowledge and insights with the technical community through in-depth articles:
+
+<div>
+
+| Title | Publication | Focus Area |
+|-------|-------------|------------|
+| [MCP - an Architectural Inflection Point](https://pub.towardsai.net/mcp-an-architectural-inflection-point-6db57d6957d3) | Towards AI | AI App Architecture |
+| [Deep Learning's Greatest Hits (Vol 2)](https://medium.com/towards-artificial-intelligence/deep-learnings-greatest-hits-vol-2-ec73f4ca439f) | Towards AI | Deep Learning Research |
+| [Deep Learning's Greatest Hits (Vol 1)](https://medium.com/towards-artificial-intelligence/deep-learnings-greatest-hits-1c4e9fce9b84) | Towards AI | Deep Learning Research |
+| [Wild Wild RAG… (Part 1)](https://pub.towardsai.net/wild-wild-rag-part-1-42848c907499) | Towards AI | Retrieval Augmented Generation |
+| [Install Cursor as an Application on Linux](https://medium.com/@zohebabai/install-cursor-ai-as-an-application-on-a-linux-system-b859e7d28f5f) | Medium | Productivity |
+
+</div>
+
+## 🧠 Coursework Solutions (Archived)
 
 
-## <a><img src="https://img.icons8.com/ios-filled/24/000000/home-office--v2.png"/> My Tech Stack
-<a><img src="https://img.icons8.com/color/32/000000/python.png"/> <a><img src="https://img.icons8.com/color/32/000000/console.png"/> <a><img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/> <a><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="32" height="32"/> <a><img src="https://img.icons8.com/color/32/000000/tensorflow.png"/> <a><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="32" height="32"/> <a><img src="https://img.icons8.com/color/32/000000/visual-studio-code-2019.png"/> <a><img src="https://img.icons8.com/color/32/000000/git.png"/> <a><img src="https://img.icons8.com/color/32/000000/django.png"/> <a><img src="https://img.icons8.com/color/32/000000/javascript.png"/> <a><img src="https://img.icons8.com/color/32/000000/html-5.png"/> <a><img src="https://img.icons8.com/color/32/000000/css3.png"/> <a><img src="https://img.icons8.com/color/32/000000/sql.png"/> <a><img src="https://img.icons8.com/color/32/000000/docker.png"/> <a><img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/> <a><img src="https://img.icons8.com/color/32/000000/google-cloud-platform.png"/> <a><img src="https://raw.githubusercontent.com/isl-org/Open3D/master/docs/_static/open3d_logo_horizontal.png" width="96" height="32"/> <a><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/ROS_cat.png" width="48" height="32"/>
+Shared authentic coursework solutions for the following courses::
 
-## <a><img src="https://img.icons8.com/ios-filled/24/keyboard.png"/> Working On
-* [ServifAI](https://github.com/ZohebAbai/servifai)
+* [Mobile Sensing and Robotics](https://github.com/ZohebAbai/mobile_sensing_robotics) - Updated implementations of advanced robotics algorithms
+* [Machine Learning Fundamentals](https://github.com/ZohebAbai/DSE220x) - Core ML concepts with practical implementations
+* [Statistics and Probability in Data Science](https://github.com/ZohebAbai/DSE210x) - Statistical foundations for data science applications
 
+## 💻 Technical Expertise
+
+<div align="center">
+
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Beginner-000000?style=flat-square&logo=rust&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-Advanced-339933?style=flat-square&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-Intermediate-61DAFB?style=flat-square&logo=react&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-000000?style=flat-square&logo=fastapi&logoColor=white)
+
+### Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-Advanced-007ACC?style=flat-square&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Expert-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Advanced-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Advanced-007ACC?style=flat-square&logo=azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Intermediate-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Advanced-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### Specialized Technologies
+
+![ML Ops](https://img.shields.io/badge/ML_Ops-Expert-0078D4?style=flat-square&logo=ray&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-Advanced-22314E?style=flat-square&logo=ros&logoColor=white)
+![GPU/CUDA](https://img.shields.io/badge/GPU-Advanced-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![3D Computer Vision](https://img.shields.io/badge/3D_CV-Advanced-007ACC?style=flat-square&logo=open3d&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Expert-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+</div>
+
+## 🚀 Professional Experience Highlights
+
+* **Senior Software Engineer** with expertise in designing and implementing production-grade machine learning systems
+* **Technical Team Lead** coordinating cross-functional teams and delivering complex software solutions
+* **ML Systems Architect** designing and implementing scalable ML infrastructure for enterprise applications
+* **Robotics Engineer** specializing in ROS application deployment on edge computing devices for autonomous systems
+* **Open Source Contributor** developing tools and libraries used by the ML/AI community
+* **Technical Writer** sharing deep technical insights through well-researched articles
+
+---
+
+<div align="center">
+  
+> "In software engineering, as in life, the quality of your solutions reflects the depth of your understanding."
+
+</div>
