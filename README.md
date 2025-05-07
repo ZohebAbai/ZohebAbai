@@ -96,6 +96,7 @@ Shared authentic coursework solutions for the following courses::
 ### Tools & Platforms
 
 ![Linux](https://img.shields.io/badge/Linux-Advanced-007ACC?style=flat-square&logo=linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-Advanced-808000?style=flat-square&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Expert-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -110,11 +111,10 @@ Shared authentic coursework solutions for the following courses::
 
 ### Specialized Technologies
 
-![ML Ops](https://img.shields.io/badge/ML_Ops-Expert-0078D4?style=flat-square&logo=ray&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-Advanced-22314E?style=flat-square&logo=ros&logoColor=white)
-![GPU/CUDA](https://img.shields.io/badge/GPU-Advanced-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![3D Computer Vision](https://img.shields.io/badge/3D_CV-Advanced-007ACC?style=flat-square&logo=open3d&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Expert-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![GPU/CUDA](https://img.shields.io/badge/Cuda-Advanced-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Edge Computing](https://img.shields.io/badge/Edge_Deployment-Expert-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 </div>
 
