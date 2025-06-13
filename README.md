@@ -48,7 +48,6 @@ Passionate and results-driven Senior Software Engineer with a robust background 
 |---------|-------------|---------------|
 | [Focal Frequency Loss](https://pypi.org/project/tf-focal-frequency-loss/) | Enhanced performance metric for Generational Models | TensorFlow, Python, PyPI |
 | [Gazebo ROS L515](https://github.com/ZohebAbai/gazebo_ros_l515) | Simulated Realsense L515 sensor with ROS in Gazebo ([Demo Video](https://youtu.be/KoQNH7YahN8)) | ROS, Gazebo, C++, Simulation |
-| [ServifAI](https://github.com/ZohebAbai/servifai) | Currently in development | Python, ML, Cloud |
 
 </div>
 
